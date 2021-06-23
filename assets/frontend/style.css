@@ -1,0 +1,27 @@
+.pricing-area th{
+	font-size: 18px !important;
+    padding: 15px !important;
+    margin-top: 15px !important;
+    text-align: center;
+    border-bottom: 3px solid silver !important;
+}
+.pricing-area td{
+	font-size: 16px !important;
+    padding: 15px !important;
+    font-weight: 600;
+}
+.pricing-area ul li {
+	font-weight: 600 !important;
+}
+iframe{
+	border:5px solid silver;
+}
+
+.navbar {
+    background: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: red;
+    font-weight: bold;
+}
